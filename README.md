@@ -29,7 +29,7 @@ Self taught photographer, programmer, and basic nerd in my free time...
 Here are some of my notable projects:
 
 - [Pwnagotchi displays](https://github.com/RasTacsko/pwnagotchi-displays) - New displaydrivers for the pwnagotchi project. ([Jayofelony's Pwnagotchi fork](https://github.com/jayofelony/pwnagotchi))
-- [Pwnagotchi plugins](hhttps://github.com/RasTacsko/Pwnagotchi-plugins) - Pwnagotchi plugins made for my builds.
+- [Pwnagotchi plugins](https://github.com/RasTacsko/Pwnagotchi-plugins) - Pwnagotchi plugins made for my builds.
 - [Pwnagotchi build guides](https://github.com/RasTacsko/Project3) - Build logs and guides for my pwnagotchi builds.
 
 ## 📫 Connect with Me
