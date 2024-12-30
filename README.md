@@ -10,6 +10,15 @@ Self taught photographer, programmer, and basic nerd in my free time...
 
 - 🔭 I’m currently working on The PilLuma project
 - 🌱 I’m currently learning coding in python
+- 
+## 🌟 Projects
+
+Here are some of the projects I'm working on:
+
+- ### [Project Pilluma](https://github.com/RasTacsko/Project-Pilluma/) - Started as a pwnagotchi plugin, could be a desk pet in the future... ###
+- [Pwnagotchi displays](https://github.com/RasTacsko/pwnagotchi-displays) - New displaydrivers for the pwnagotchi project. ([Jayofelony's Pwnagotchi fork](https://github.com/jayofelony/pwnagotchi))
+- [Pwnagotchi plugins](https://github.com/RasTacsko/Pwnagotchi-plugins) - Pwnagotchi plugins made for my builds.
+- [Pwnagotchi build guides](https://github.com/RasTacsko/Project3) - Build logs and guides for my pwnagotchi builds.
 
 ## 🛠️ Technologies & Tools
 
@@ -23,14 +32,6 @@ Self taught photographer, programmer, and basic nerd in my free time...
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasTacsko&layout=compact&theme=dark)
-
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-- [Pwnagotchi displays](https://github.com/RasTacsko/pwnagotchi-displays) - New displaydrivers for the pwnagotchi project. ([Jayofelony's Pwnagotchi fork](https://github.com/jayofelony/pwnagotchi))
-- [Pwnagotchi plugins](https://github.com/RasTacsko/Pwnagotchi-plugins) - Pwnagotchi plugins made for my builds.
-- [Pwnagotchi build guides](https://github.com/RasTacsko/Project3) - Build logs and guides for my pwnagotchi builds.
 
 ## 📫 Connect with Me
 
